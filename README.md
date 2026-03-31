@@ -2,7 +2,6 @@
 Smart Socket IoT Project
 
 - ESP32 + Firebase + App
-- Python used to send data
 - App built using Kodular
 
 Components:
